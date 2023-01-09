@@ -13,7 +13,7 @@ export const StyledHeader = styled.header`
 `
 
 export const BotHeader = styled.div`
-    width: 50%;
+    width: 60%;
     height: 100%;
     display: flex;
     flex-direction: column;
@@ -35,7 +35,7 @@ export const BotHeader = styled.div`
 `
 
 export const BotImage = styled.div`
-    width: 50%;
+    width: 40%;
     height: 100%;
     display: flex;
     justify-content: flex-end;
