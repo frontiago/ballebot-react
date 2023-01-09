@@ -8,4 +8,4 @@
 
 --- 
 
-![Print](../ballebot-react/public/images/print-ballebot.png)
+![Print](./images/print-ballebot.png)
