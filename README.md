@@ -4,8 +4,8 @@
 - Made with Reactjs and Styled Components
 - Fully Responsive
 
-### 👁️[ View Online](https://frontiago.github.io/ballebot/)
+### 👁️[ View Online](https://frontiago-ballebot-react.vercel.app/)
 
 --- 
 
-![Print](./images/print-ballebot.png)
+![Print](./print-ballebot.png)
